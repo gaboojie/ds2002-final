@@ -1,0 +1,62 @@
+[
+	{
+		"TerritoryID" : 1,
+		"TerritoryName" : "Northwest",
+		"CountryRegionCode" : "US",
+		"Group" : "North America"
+	},
+	{
+		"TerritoryID" : 2,
+		"TerritoryName" : "Northeast",
+		"CountryRegionCode" : "US",
+		"Group" : "North America"
+	},
+	{
+		"TerritoryID" : 3,
+		"TerritoryName" : "Central",
+		"CountryRegionCode" : "US",
+		"Group" : "North America"
+	},
+	{
+		"TerritoryID" : 4,
+		"TerritoryName" : "Southwest",
+		"CountryRegionCode" : "US",
+		"Group" : "North America"
+	},
+	{
+		"TerritoryID" : 5,
+		"TerritoryName" : "Southeast",
+		"CountryRegionCode" : "US",
+		"Group" : "North America"
+	},
+	{
+		"TerritoryID" : 6,
+		"TerritoryName" : "Canada",
+		"CountryRegionCode" : "CA",
+		"Group" : "North America"
+	},
+	{
+		"TerritoryID" : 7,
+		"TerritoryName" : "France",
+		"CountryRegionCode" : "FR",
+		"Group" : "Europe"
+	},
+	{
+		"TerritoryID" : 8,
+		"TerritoryName" : "Germany",
+		"CountryRegionCode" : "DE",
+		"Group" : "Europe"
+	},
+	{
+		"TerritoryID" : 9,
+		"TerritoryName" : "Australia",
+		"CountryRegionCode" : "AU",
+		"Group" : "Pacific"
+	},
+	{
+		"TerritoryID" : 10,
+		"TerritoryName" : "United Kingdom",
+		"CountryRegionCode" : "GB",
+		"Group" : "Europe"
+	}
+]
